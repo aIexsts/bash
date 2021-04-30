@@ -1,0 +1,6 @@
+hello bash script2
+hello bash script3
+hello bash script2
+hello bash script2
+hello bash script5
+hello bash script2
